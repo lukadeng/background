@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.one {
+  height: 200px;
+  background: url(./image/big.jpeg);
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  background-repeat: no-repeat;
+  border: 2px solid green;
+  background-size: cover;
+  background-position: center;
+}
+
+.two {
+  height: 200px;
+  background: url(./image/folder-img.jpeg);
+  color: white;
+  text-transform: uppercase;
+  text-align: center;
+  background-repeat: no-repeat;
+  border: 2px solid green;
+  background-size: cover;
+  background-position: center;
+}
+
+.three {
+  height: 200px;
+  background: url(./image/small.jpeg);
+  color: darkmagenta;
+  text-transform: uppercase;
+  text-align: center;
+  background-repeat: no-repeat;
+  border: 2px solid green;
+  background-size: cover;
+  background-position: center;
+}
